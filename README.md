@@ -19,7 +19,7 @@
 
 | Project | Domain | Tools |
 |---|---|---|
-| [BLDC Fan Energy Analytics Dashboard](#) | Data Analytics + ML | Python, Scikit-learn, Streamlit |
+| [BLDC Fan Energy Analytics Dashboard](https://bldc-energy-analytics-jnjtiodbojwhyruh5ycjpq.streamlit.app/) | Data Analytics + ML | Python, Scikit-learn, Streamlit |
 | [Driver Drowsiness Detection](#) | IoT + Edge AI | ESP32, TensorFlow Lite, OpenCV |
 | [Smart Perishable Tracking System](#) | IoT + Cloud | ESP32, MQTT, Firebase |
 | [Traffic Light FSM Controller](#) | Digital Design | VHDL, Verilog, Vivado |
