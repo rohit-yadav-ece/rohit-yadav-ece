@@ -19,13 +19,12 @@
 
 | Project | Domain | Tools |
 |---|---|---|
-| [BLDC Fan Energy Analytics Dashboard](https://bldc-energy-analytics-jnjtiodbojwhyruh5ycjpq.streamlit.app/) | Data Analytics + ML | Python, Scikit-learn, Streamlit |
-| [Driver Drowsiness Detection](#) | IoT + Edge AI | ESP32, TensorFlow Lite, OpenCV |
+| [BLDC Fan Energy Analytics Dashboard](https://github.com/rohit-yadav-ece/BLDC-Energy-Analytics) | Data Analytics + ML | Python, Scikit-learn, Streamlit |
+| [Driver Drowsiness Detection](https://github.com/rohit-yadav-ece/Driver-Drowsiness-Detection) | Computer Vision + AI | Python, OpenCV, Haar Cascades |
 | [Smart Perishable Tracking System](#) | IoT + Cloud | ESP32, MQTT, Firebase |
 | [Traffic Light FSM Controller](#) | Digital Design | VHDL, Verilog, Vivado |
-
 ---
-
+🚀 **Live Demo:** [BLDC Energy Dashboard](https://bldc-energy-analytics-jnjtiodbojwhyruh5ycjpq.streamlit.app/)
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
