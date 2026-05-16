@@ -21,7 +21,7 @@
 | [AtomQuest — Goal Tracking Portal](https://github.com/rohit-yadav-ece/atomquest) | Full-Stack Web App | React, FastAPI, SQLAlchemy, JWT |
 | [BLDC Fan Energy Analytics Dashboard](https://github.com/rohit-yadav-ece/BLDC-Energy-Analytics) | Data Analytics + ML | Python, Scikit-learn, Streamlit |
 | [Driver Drowsiness Detection](https://github.com/rohit-yadav-ece/Driver-Drowsiness-Detection) | Computer Vision + AI | Python, OpenCV, Haar Cascades |
-| [Smart Perishable Tracking System](#) | IoT + Cloud | ESP32, MQTT, Firebase |
+| [Smart Perishable Tracking System](https://smart-home-appliance-scheduler-lkhb8bycp6yndwbojq3vbr.streamlit.app/) | IoT + Cloud | ESP32, MQTT, Firebase |
 | [Traffic Light FSM Controller](#) | Digital Design | VHDL, Verilog, Vivado |
 
 ---
