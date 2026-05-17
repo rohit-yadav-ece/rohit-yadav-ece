@@ -22,12 +22,14 @@
 | [BLDC Fan Energy Analytics Dashboard](https://github.com/rohit-yadav-ece/BLDC-Energy-Analytics) | Data Analytics + ML | Python, Scikit-learn, Streamlit |
 | [Driver Drowsiness Detection](https://github.com/rohit-yadav-ece/Driver-Drowsiness-Detection) | Computer Vision + AI | Python, OpenCV, Haar Cascades |
 | [Smart Perishable Tracking System](https://smart-home-appliance-scheduler-lkhb8bycp6yndwbojq3vbr.streamlit.app/) | IoT + Cloud | ESP32, MQTT, Firebase |
-| [Traffic Light FSM Controller](#) | Digital Design | VHDL, Verilog, Vivado |
+| [Traffic Light FSM Controller](https://predictive-maintenance-bldc-azwhf5omrkiwbhbvrc7auk.streamlit.app/) | Digital Design | VHDL, Verilog, Vivado |
 
 ---
 
 🚀 **Live Demos:**  
-[AtomQuest Portal](https://atomquest-rouge.vercel.app) &nbsp;|&nbsp; [BLDC Energy Dashboard](https://bldc-energy-analytics-jnjtiodbojwhyruh5ycjpq.streamlit.app/)
+[AtomQuest Portal](https://atomquest-rouge.vercel.app) &nbsp;|&nbsp; [BLDC Energy Dashboard](https://bldc-energy-analytics-jnjtiodbojwhyruh5ycjpq.streamlit.app/) - 🔗 Other Live Projects:
+  - [BLDC Energy Analytics ↗](https://bldc-energy-analytics-jnjtiodbojwhyruh5ycjpq.streamlit.app/)
+  - [Smart Home Scheduler ↗](https://smart-home-appliance-scheduler-lkhb8bycp6yndwbojq3vbr.streamlit.app/)
 
 ---
 
