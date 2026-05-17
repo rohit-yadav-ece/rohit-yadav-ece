@@ -52,4 +52,4 @@
 
 ---
 
-📫 **Reach me:** btech15094.23@bitmesra.ac  
+📫 **Reach me:** btech15094.23@bitmesra.ac.in 
