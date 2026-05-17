@@ -22,7 +22,7 @@
 | [BLDC Fan Energy Analytics Dashboard](https://github.com/rohit-yadav-ece/BLDC-Energy-Analytics) | Data Analytics + ML | Python, Scikit-learn, Streamlit |
 | [Driver Drowsiness Detection](https://github.com/rohit-yadav-ece/Driver-Drowsiness-Detection) | Computer Vision + AI | Python, OpenCV, Haar Cascades |
 | [Smart Perishable Tracking System](https://github.com/rohit-yadav-ece/Smart-Home-Appliance-Scheduler) | IoT + Cloud | ESP32, MQTT, Firebase |
-| [Predictive-Maintenance-BLDC](https://github.com/rohit-yadav-ece/Predictive-Maintenance-BLDC) | Digital Design | VHDL, Verilog, Vivado |
+| [Predictive-Maintenance-BLDC](https://github.com/rohit-yadav-ece/Predictive-Maintenance-BLDC) | Data Analytics + ML | Python, Scikit-learn, Streamlit |
 
 ---
 
